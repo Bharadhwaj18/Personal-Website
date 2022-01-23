@@ -17,7 +17,6 @@ body {
   text-align: center;
   margin: 0;
   font-family: 'Merriweather', serif;
-  font-size: 15px;
 }
 
 h1 {
@@ -89,6 +88,7 @@ h3 {
 
 .message-me {
   line-height: 2;
+  font-size: 15px;
 }
 
 .copyright {
@@ -100,6 +100,9 @@ h3 {
 .contact-me {
   line-height: 3;
 }
+
+.student-details {
+  font-size: 15px;
 
 .btn {
   line-height: 8;
