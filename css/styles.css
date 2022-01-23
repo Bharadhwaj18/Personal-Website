@@ -88,7 +88,7 @@ h3 {
 
 .message-me {
   line-height: 2;
-  font-size: 15px;
+  font-size: 1rem;
 }
 
 .copyright {
@@ -102,7 +102,7 @@ h3 {
 }
 
 .student-details {
-  font-size: 15px;
+  font-size: 1rem;
 }
 
 .btn {
