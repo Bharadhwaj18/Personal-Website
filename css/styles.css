@@ -96,7 +96,8 @@ a:hover {
 
 .message-me {
   line-height: 2;
-  font-size: 1rem;
+  width: 60%;
+  margin: auto;
 }
 
 .copyright {
